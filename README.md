@@ -17,6 +17,6 @@ App made with React Native
 [Android apk](https://drive.google.com/file/d/1VCeFQu7vsWAIUtifiikdLnu9UmX2iQ5v/view?usp=sharing)
 
 #### IOS
-To install on IOS, install from AppStore ExpoGo, then open this [link](https://expo.io/@uszackip/FinTechApp)
+To install on IOS, install from AppStore Expo Go, then open this [link](https://expo.io/@uszackip/FinTechApp)
 
 
