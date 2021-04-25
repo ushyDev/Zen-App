@@ -11,12 +11,12 @@ amicable.*
 
 App made with React Native
 
-###Download App
+### Download App
 
-####Android
+#### Android
 [Android apk](https://drive.google.com/file/d/1VCeFQu7vsWAIUtifiikdLnu9UmX2iQ5v/view?usp=sharing)
 
-####IOS
+#### IOS
 To install on IOS, install from AppStore ExpoGo, then open this [link](https://expo.io/@uszackip/FinTechApp)
 
 
